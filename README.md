@@ -1,3 +1,3 @@
 # Java
 
-xHotSpot - Application to create a HotSpot on various platforms
+xHotSpot - Cross platform application to create a HotSpot.
