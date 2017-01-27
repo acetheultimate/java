@@ -1,2 +1,2 @@
 # xHotSpot
-Cross platform application to create hotspot.
+Windows platform application to create hotspot.
