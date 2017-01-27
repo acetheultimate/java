@@ -1,2 +1,2 @@
 # xHotSpot
-Windows platform application to create hotspot.
+Java application to create hotspot on Windows Operating System.
